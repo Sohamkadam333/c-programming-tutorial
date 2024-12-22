@@ -12,6 +12,7 @@
 	},
 	"dependencies": {
 		"@preline/overlay": "^2.6.0",
+		"@remix-run/netlify": "^1.19.3",
 		"@remix-run/node": "^2.15.1",
 		"@remix-run/react": "^2.15.1",
 		"@remix-run/serve": "^2.15.1",
