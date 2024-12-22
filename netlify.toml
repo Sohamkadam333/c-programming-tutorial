@@ -3,3 +3,8 @@
   publish = "public"
   functions = "netlify/functions"
   environment = { NODE_ENV = "production" }
+
+[build.environment]
+  NODE_ENV = "production"
+  NODE_VERSION = "22"
+  PYTHON_VERSION = "3.11.6"
