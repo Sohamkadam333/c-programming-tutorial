@@ -2,8 +2,7 @@
   command = "npm run build"
   publish = "public"
   functions = "netlify/functions"
-  environment = { NODE_ENV = "production" }
-
+  
 [build.environment]
   NODE_ENV = "production"
   NODE_VERSION = "20"
